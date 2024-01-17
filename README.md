@@ -4,8 +4,6 @@
 
 
 
-
-
 ## **FastEndpoints** is a developer friendly alternative to Minimal APIs & MVC
 
 It nudges you towards the **[REPR Design Pattern (Request-Endpoint-Response)](https://deviq.com/design-patterns/repr-design-pattern)** for convenient & maintainable endpoint creation with virtually no boilerplate.
